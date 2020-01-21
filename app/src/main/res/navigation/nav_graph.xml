@@ -21,10 +21,4 @@
             app:uri="dltest://open/second" />
     </fragment>
 
-    <fragment
-        android:id="@+id/thirdFragment"
-        android:name="io.ubuntudroid.deeplinksample.ui.main.ThirdFragment"
-        android:label="third_fragment"
-        tools:layout="@layout/third_fragment" />
-
 </navigation>
